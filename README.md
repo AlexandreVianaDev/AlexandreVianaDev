@@ -1,6 +1,6 @@
 ## Olá, eu sou o Alexandre Viana, sou Desenvolvedor Web Front End
-## FullStack em formação pela Kenzie Academy Brasil
-## desenvolvo jogos no meu tempo livre
+FullStack em formação pela Kenzie Academy Brasil
+Hobby de Desenvolvimento de Jogos
 
 
 <div style="display: inline_block"><br>
