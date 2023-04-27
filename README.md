@@ -14,6 +14,7 @@
   
   ## Minhas estatísticas
   
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrevianadev&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandrevianadev&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrevianadev&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandrevianadev&theme=nord_bright)
