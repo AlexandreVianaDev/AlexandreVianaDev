@@ -19,10 +19,9 @@
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrevianadev)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandrevianadev)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrevianadev) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandrevianadev)
-
 ![](https://github-readme-streak-stats.herokuapp.com?user=alexandrevianadev&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
+ <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrevianadev) -->
  
 <div> 
   <a href = "mailto:alexandreviana94@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
