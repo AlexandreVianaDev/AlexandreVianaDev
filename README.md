@@ -18,6 +18,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandrevianadev&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrevianadev&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandrevianadev&theme=nord_bright)
+
 ![](https://github-readme-streak-stats.herokuapp.com?user=alexandrevianadev&theme=nord_bright&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
  
 <div> 
