@@ -19,7 +19,7 @@
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrevianadev)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexandrevianadev)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrevianadev)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrevianadev) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandrevianadev)
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=alexandrevianadev&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)
