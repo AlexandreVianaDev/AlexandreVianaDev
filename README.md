@@ -13,6 +13,8 @@
 </div>
   
   ##
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrevianadev&theme=nord_bright)
  
 <div> 
   <a href = "mailto:alexandreviana94@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
