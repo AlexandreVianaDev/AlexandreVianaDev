@@ -23,6 +23,7 @@
   <img align="center" alt="AWS" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
   -->
 </div>
+
   ## Minhas estatísticas
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrevianadev)
