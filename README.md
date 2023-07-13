@@ -16,12 +16,10 @@
   <img align="center" alt="Yarn" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png">
   <img align="center" alt="VSCode" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
   <img align="center" alt="Figma" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">
-  <!--
   <img align="center" alt="Python" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
   <img align="center" alt="Flask" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
   <img align="center" alt="MongoDB" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
   <img align="center" alt="AWS" height="48" width="48" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
-  -->
 </div>
 
   ## Minhas estatísticas
